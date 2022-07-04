@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "kategori": "donuts",
+      "nama": "Avocado Dicaprio",
+      "deskripsi": "The most eligible bachelor only at J.CO! My heart will go on",
+      "gambar": "avocado_dicaprio.jpg"
+    },
+    {
+      "kategori": "donuts",
+      "nama": "Alcapone",
+      "deskripsi": "Recipe from Rome, Almonds from California, White Chocolate from Belgium, Oh, Mammamia!",
+      "gambar": "al_capone2.jpg"
+    },
+    {
+      "kategori": "donuts",
+      "nama": "Blueberrymore",
+      "deskripsi": "Two thumbs up!!! Delicious act by blueberry and cream cheese",
+      "gambar": "blueberry_more.jpg"
+    },
+    {
+      "kategori": "donuts",
+      "nama": "Cheese Cakelicious",
+      "deskripsi": "Dig into a cult favorite oreo cookies and creamy cheesecake combo-absolutely cakelicious",
+      "gambar": "Cheese_Cakelicious.jpg"
+    },
+    {
+      "kategori": "donuts",
+      "nama": "Choco Caviar Chocolate",
+      "deskripsi": "Premium Chocolate meets Caviar, one bite won't be enough! Hmmm Yummy!",
+      "gambar": "choco_caviar_chocolate2.jpg"
+    },
+    {
+      "kategori": "jcoffee",
+      "nama": "Choco Forest Frappe",
+      "deskripsi": "No one can resist the temptation of the glamorous Black Forest sensation",
+      "gambar": "chocoforest.jpg"
+    },
+    {
+      "kategori": "jcoffee",
+      "nama": "Avocado Frappe",
+      "deskripsi": "Bite of this delightful avocado and chocolate crunch",
+      "gambar": "coffe_avocado.jpg"
+    },
+    {
+      "kategori": "jcoffee",
+      "nama": "Blueberry YOGURT",
+      "deskripsi": "Sprinkle Premium Chocolate with Strawberry That will Tickle your mouth!",
+      "gambar": "mixberry_yogurt.jpg"
+    },
+    {
+      "kategori": "jcronut",
+      "nama": "Tira miss U",
+      "deskripsi": "It's crispy almond chunk have won thousand hearts",
+      "gambar": "tiramisu.jpg"
+    },
+    {
+      "kategori": "jcronut",
+      "nama": "Choco Forest",
+      "deskripsi": "I'm NUT's about CHOCOLATE! This feeling make me craZY",
+      "gambar": "choco-forest.jpg"
+    },
+    {
+      "kategori": "jcronut",
+      "nama": "Cheese and cheers",
+      "deskripsi": "Crunching is fun, yet Crunchy Crunchy are double fun",
+      "gambar": "cheese-cheers.jpg"
+    }
+  ]
+}
